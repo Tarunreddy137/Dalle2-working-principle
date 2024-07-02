@@ -1,0 +1,5 @@
+## Requirements to Develop the Code
+To develop applications using DALL-E 2 and diffusion generative models, you'll need:
+- Access to cloud services or local infrastructure capable of handling large-scale model computations.
+- Libraries and frameworks such as Hugging Face Transformers for model deployment and fine-tuning.
+- Storage solutions like S3 buckets for managing large datasets and model checkpoints.
